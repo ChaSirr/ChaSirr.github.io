@@ -2,7 +2,7 @@
     * [决斗系统](/oneyunzai/juedou.md)
     * [AI对话](/oneyunzai/chat.md)
     * [AI绘画](wait.md)
-    * [奇怪的回复](wait.md)
+    * [奇怪的回复](/oneyunzai/wait.md)
     * [-]
 
 * [**茶茶三号机**](three.md)
@@ -12,6 +12,6 @@
         * [表情包生成](wait.md)
         * [模拟原神抽卡](wait.md)
     * [Yunzai功能](/threeyunzai/three.md)
-        * [-占卜系统](wait.md)
-        * [-奇怪的回复](wait.md)
-*[**支持我~~们~~**](fadian.md)
+        * [-占卜系统](/threeyunzai/wait.md)
+        * [-奇怪的回复](/threeyunzai/wait.md)
+*[**支持我~~们~~**](https://afdian.net/a/cha_sir)
