@@ -8,5 +8,5 @@
 - 基于SD模型的AI绘图功能
 - 包含多种QQ群娱乐功能
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](?id=茶茶使用说明)
+[发电链接](https://afdian.net/a/cha_sir)
+[看看你的](?id=茶茶使用说明)
