@@ -1,8 +1,8 @@
 * [**茶茶**](one.md)
-    * [-决斗系统](/oneyunzai/juedou.md)
-    * [-AI对话](/oneyunzai/chat.md)
-    * [-AI绘画](wait.md)
-    * [-奇怪的回复](wait.md)
+    * [决斗系统](/oneyunzai/juedou.md)
+    * [AI对话](/oneyunzai/chat.md)
+    * [AI绘画](wait.md)
+    * [奇怪的回复](wait.md)
     * [-]
 
 * [**茶茶三号机**](three.md)
@@ -12,7 +12,6 @@
         * [表情包生成](wait.md)
         * [模拟原神抽卡](wait.md)
     * [Yunzai功能](/threeyunzai/three.md)
-        * [-占卜系统](juedou.md)
-        * [-奇怪的回复](chat.md)
-        * [-AI绘画]()
-        * [-点歌/点视频]()
+        * [-占卜系统](wait.md)
+        * [-奇怪的回复](wait.md)
+*[**支持我~~们~~**](fadian.md)
