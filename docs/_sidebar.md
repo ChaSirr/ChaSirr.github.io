@@ -1,8 +1,8 @@
 * [**茶茶**](one.md)
     * [决斗系统](/oneyunzai/juedou.md)
     * [AI对话](/oneyunzai/chat.md)
-    * [AI绘画](oneyunzai/huihua.md)
-    * [奇怪的回复](/oneyunzai/huifu.md)
+    * [AI绘画](/oneyunzai/huihua.md)
+    * [奇怪的回复](/oneyunzai/huihua.md)
     * [-]
 
 * [**茶茶三号机**](three.md)
