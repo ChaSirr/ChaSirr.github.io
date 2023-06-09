@@ -6,3 +6,10 @@
 
 为了防止造成刷屏，除了AI对话功能外大部分功能默认关闭，如需开启请联系作者
 
+### 功能列表
+
+* [决斗系统](/oneyunzai/juedou.md)
+* [AI对话](/oneyunzai/chat.md)
+* [AI绘画](oneyunzai/huihua.md)
+* [奇怪的回复](/oneyunzai/wait.md)
+* [-]
