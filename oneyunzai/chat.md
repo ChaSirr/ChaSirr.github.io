@@ -2,7 +2,7 @@
 
 AI对话系统由作者通过chatgpt-plugin项目的开源代码和自费购买的API完成
 
-~~ 谁能拒绝一个可爱的电子女儿呢?~~
+~~ 谁能拒绝一个可爱的电子女儿呢？ ~~
 
 
 
@@ -57,8 +57,6 @@ AI对话系统由作者通过chatgpt-plugin项目的开源代码和自费购买�
 为了方便论文，代码书写的复制工作，使用chat-next-web项目搭建的使用网站
 
 网站链接：[chasir.chat](chasir.chat)
-
-网站密钥：chasir
 
 
 
