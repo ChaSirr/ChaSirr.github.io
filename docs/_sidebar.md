@@ -14,4 +14,5 @@
     * [Yunzai功能](/threeyunzai/three.md)
         * [-占卜系统](/threeyunzai/wait.md)
         * [-奇怪的回复](/threeyunzai/wait.md)
-*[**支持我~~们~~**](https://afdian.net/a/cha_sir)
+* [**公告栏**](report.md)
+* [**支持我~~们~~**](https://afdian.net/a/cha_sir)
