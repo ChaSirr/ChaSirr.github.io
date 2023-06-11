@@ -4,12 +4,12 @@
 
   拥有AI对话和AI绘画功能，并且集成有各种其他功能
 
-为了防止造成刷屏，除了AI对话功能外大部分功能默认关闭，如需开启请联系作者
+为了防止造成刷屏，除了AI对话功能外大部分功能默认关闭，如需开启请联系作者  最下面是公告栏，作者一点的碎碎念
 
 ### 功能列表
 
 * [决斗系统](/oneyunzai/juedou.md)
 * [AI对话](/oneyunzai/chat.md)
-* [AI绘画](oneyunzai/huihua.md)
+* [AI绘画](/oneyunzai/huihua.md)
 * [奇怪的回复](/oneyunzai/wait.md)
 * [-]
