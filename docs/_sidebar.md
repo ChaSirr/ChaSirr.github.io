@@ -11,4 +11,5 @@
     * [击剑（？）](wait.md)
     * [表情包生成](wait.md)
     * [模拟原神抽卡](wait.md)
+*[**赞助人留言**](sponsor/sponsor.md)    
 *[**支持我~~们~~**](https://afdian.net/a/cha_sir)
